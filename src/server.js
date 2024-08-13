@@ -1,11 +1,11 @@
 import express from 'express';
 import pino from 'pino-http';
 import cors from 'cors';
-// import router from './routers/index.js';
+import router from './routers/flats.js';
 // import cookieParser from 'cookie-parser';
 
-// import { errorHandler } from './middlewares/errorHandler.js';
-// import { notFoundHandler } from './middlewares/notFoundHandler.js';
+import { errorHandler } from './middlewares/errorHandler.js';
+import { notFoundHandler } from './middlewares/notFoundHandler.js';
 
 import { env } from './utils/env.js';
 
@@ -38,11 +38,11 @@ export const setupServer = () => {
         });
     });
 
-    // app.use(router);
+    app.use(router);
 
-    // app.use('*', notFoundHandler);
+    app.use('*', notFoundHandler);
 
-    // app.use(errorHandler);
+    app.use(errorHandler);
 
     app.listen(PORT, () => {
         console.log(`Server is running on port ${PORT}`);

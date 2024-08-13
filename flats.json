@@ -1,0 +1,194 @@
+
+[
+    {
+        "street": "13D Akhmatova Anna St. ",
+        "new": true,
+        "beds": 2,
+        "sofa": 1,
+        "bath": 1,
+        "price": 200000,
+        "area": "80m2",
+        "district": "Bialolenka",
+        "isVerified": {
+            "boolean": true,
+            "amountRooms": "3 rooms",
+            "floor": "25th floor of 36",
+            "developer": "Offer from the developer"
+        },
+        "complex": {
+            "name": "RC Manhattan City",
+            "parking": "Multi-level parking lot",
+            "yard": "Yard without cars",
+            "decoration": "No interior decoration",
+            "building": "Monolithic frame house",
+            "howManyFloors": "36 floors",
+            "heating": "Centralized heating",
+            "walls": "Walls made of ceramic red brick",
+            "insulating": "Insulated with mineral wool",
+            "contract": "Preliminary contract of sale of the apartment",
+            "ceiling": "Ceiling height 3m",
+            "class": "Business class",
+            "amountApartments": "1340 apartments"
+        }
+    },
+    {
+        "street": "4B Staronavodnytska St. ",
+        "isNew": true,
+        "beds": 2,
+        "sofa": 1,
+        "bath": 1,
+        "pool": 1,
+        "price": 185000,
+        "area": "80m2",
+        "district": "Bialolenka",
+        "isVerified": {
+            "boolean": true,
+            "amount of rooms": "3 rooms",
+            "floor": "25th floor of 36",
+            "developer": "Offer from the developer"
+        },
+        "residential complex": {
+            "name": "RC Manhattan City",
+            "parking": "Multi-level parking lot",
+            "yard": "Yard without cars",
+            "decoration": "No interior decoration",
+            "building": "Monolithic frame house",
+            "how many floors": "36 floors",
+            "heating": "Centralized heating",
+            "walls": "Walls made of ceramic red brick",
+            "insulating": "Insulated with mineral wool",
+            "contract": "Preliminary contract of sale of the apartment",
+            "ceiling": "Ceiling height 3m",
+            "class": "Business class",
+            "amount of apartments": "1340 apartments"
+        }
+    },
+    {
+        "street": "40B Revutskoho St. ",
+        "isNew": true,
+        "beds": 2,
+        "sofa": 1,
+        "bath": 1,
+        "price": 215000,
+        "area": "80m2",
+        "district": "Bialolenka",
+        "isVerified": {
+            "boolean": true,
+            "amount of rooms": "3 rooms",
+            "floor": "25th floor of 36",
+            "developer": "Offer from the developer"
+        },
+        "residential complex": {
+            "name": "RC Manhattan City",
+            "parking": "Multi-level parking lot",
+            "yard": "Yard without cars",
+            "decoration": "No interior decoration",
+            "building": "Monolithic frame house",
+            "how many floors": "36 floors",
+            "heating": "Centralized heating",
+            "walls": "Walls made of ceramic red brick",
+            "insulating": "Insulated with mineral wool",
+            "contract": "Preliminary contract of sale of the apartment",
+            "ceiling": "Ceiling height 3m",
+            "class": "Business class",
+            "amount of apartments": "1340 apartments"
+        }
+    },
+    {
+        "street": "11A Berestetska St. ",
+        "isNew": true,
+        "beds": 2,
+        "sofa": 1,
+        "bath": 1,
+        "pool": 1,
+        "price": 210000,
+        "area": "80m2",
+        "district": "Bialolenka",
+        "isVerified": {
+            "boolean": true,
+            "amount of rooms": "3 rooms",
+            "floor": "25th floor of 36",
+            "developer": "Offer from the developer"
+        },
+        "residential complex": {
+            "name": "RC Manhattan City",
+            "parking": "Multi-level parking lot",
+            "yard": "Yard without cars",
+            "decoration": "No interior decoration",
+            "building": "Monolithic frame house",
+            "how many floors": "36 floors",
+            "heating": "Centralized heating",
+            "walls": "Walls made of ceramic red brick",
+            "insulating": "Insulated with mineral wool",
+            "contract": "Preliminary contract of sale of the apartment",
+            "ceiling": "Ceiling height 3m",
+            "class": "Business class",
+            "amount of apartments": "1340 apartments"
+        }
+    },
+    {
+        "street": "40B Revutskoho St.  ",
+        "isNew": true,
+        "beds": 2,
+        "sofa": 1,
+        "bath": 1,
+        "price": 215000,
+        "area": "80m2",
+        "district": "Bialolenka",
+        "isVerified": {
+            "boolean": true,
+            "amount of rooms": "3 rooms",
+            "floor": "25th floor of 36",
+            "developer": "Offer from the developer"
+        },
+        "residential complex": {
+            "name": "RC Manhattan City",
+            "parking": "Multi-level parking lot",
+            "yard": "Yard without cars",
+            "decoration": "No interior decoration",
+            "building": "Monolithic frame house",
+            "how many floors": "36 floors",
+            "heating": "Centralized heating",
+            "walls": "Walls made of ceramic red brick",
+            "insulating": "Insulated with mineral wool",
+            "contract": "Preliminary contract of sale of the apartment",
+            "ceiling": "Ceiling height 3m",
+            "class": "Business class",
+            "amount of apartments": "1340 apartments"
+        }
+    },
+    {
+        "street": "11A Berestetska St. ",
+        "isNew": true,
+        "beds": 2,
+        "sofa": 1,
+        "bath": 1,
+        "pool": 1,
+        "price": 210000,
+        "area": "80m2",
+        "district": "Bialolenka",
+        "isVerified": {
+            "boolean": true,
+            "amount of rooms": "3 rooms",
+            "floor": "25th floor of 36",
+            "developer": "Offer from the developer"
+        },
+        "residential complex": {
+            "name": "RC Manhattan City",
+            "parking": "Multi-level parking lot",
+            "yard": "Yard without cars",
+            "decoration": "No interior decoration",
+            "building": "Monolithic frame house",
+            "how many floors": "36 floors",
+            "heating": "Centralized heating",
+            "walls": "Walls made of ceramic red brick",
+            "insulating": "Insulated with mineral wool",
+            "contract": "Preliminary contract of sale of the apartment",
+            "ceiling": "Ceiling height 3m",
+            "class": "Business class",
+            "amount of apartments": "1340 apartments"
+        }
+    }
+]
+
+
